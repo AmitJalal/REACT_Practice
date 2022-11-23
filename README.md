@@ -1,6 +1,7 @@
 # REACT-Practice
-## Started practicing/mastering REACT skills and concepts
+##### Started practicing/mastering REACT skills and concepts
 
 ## Outlet react-router-dom practice -
 </br>
-![outlet](https://user-images.githubusercontent.com/96337905/203550129-5eb75efd-a2f8-4562-8464-17a788ba717c.png)
+![image](https://user-images.githubusercontent.com/96337905/203550380-c601caa5-b0cb-4fb8-9271-a4d277874c87.png)
+
