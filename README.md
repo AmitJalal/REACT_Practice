@@ -1,4 +1,6 @@
 # REACT-Practice
-### Started practicing/mastering REACT skills and concepts
+## Started practicing/mastering REACT skills and concepts
 
- credit - john-smilga -> Full React Course 2020 - Learn Fundamentals, Hooks, Context API, React Router, Custom Hooks and more.
+## Outlet react-router-dom practice -
+</br>
+![outlet](https://user-images.githubusercontent.com/96337905/203550129-5eb75efd-a2f8-4562-8464-17a788ba717c.png)
