@@ -1,0 +1,40 @@
+.side-bar {
+    width: 15vw;
+   min-height: calc(100vh - 76.4px);
+   background-color: rgb(231, 227, 227);
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   box-shadow: 2px 2px 6px 0px rgba(0, 0, 0, 0.3);
+}
+.top-anime-list{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.top-anime-list-li {
+    margin: 0.5em 0;
+    padding: 0.75em;
+    width: calc(100% - 1em);
+    text-align: start;
+    background-color: rgb(202, 200, 200);
+    border-radius: 0.75em;
+    box-shadow: 2px 2px 6px 0px rgba(0, 0, 0, 0.3);
+}
+
+.top-anime-list-li:hover {
+    color: rgb(255, 255, 255);
+    background-color: rgb(129, 129, 129);
+}
+
+.top-anime-list-li:active{
+    transform: translateY(4px);
+}
+
+.dashboard{
+    display: flex;
+}
+
+
+
